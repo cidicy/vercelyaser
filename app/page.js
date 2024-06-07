@@ -32,9 +32,11 @@ export default function Home() {
        </p>
        </p>
        </p>
+       <p>
        <br/> ANSWER 2:
        <br/> ANSWER 3:
        <br/> ANSWER 4:
+       </p>
       </div>
 
       <div className={styles.center}>
