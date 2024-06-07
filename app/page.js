@@ -35,7 +35,9 @@ export default function Home() {
        <br/> ANSWER 2: What I wanted to learn or do more of at work is to get to know my colleagues better. I wanted to build relationship
       to as many as I could because I know that it will help me with my work.
       </p>
+      <p>
        <br/> ANSWER 3:
+       </p>
        <br/> ANSWER 4:
        <br/> ANSWER 5:
        <br/> ANSWER 6:
