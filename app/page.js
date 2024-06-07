@@ -11,9 +11,11 @@ export default function Home() {
 
       </div>
       <div className={styles.center}>
+      <div>
         <p>
           ANSWER 1:
         </p>
+        </div>
         <p>
           ANSWER 1:
         </p>
