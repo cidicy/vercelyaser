@@ -30,6 +30,8 @@ export default function Home() {
        <br/> 5.
        </p>
        </p>
+       <br/> What I wanted to learn or do more of a work is to get know my colleagues better. I wanted to build relationship
+       to as many as I could because I know that it will help me with my work.
         </p>
       </div>
 
