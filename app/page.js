@@ -32,10 +32,6 @@ export default function Home() {
        </p>
        </p>
        </p>
-       <p>
-       <br/> ANSWER 2: What I wanted to learn or do more of at work is to get know my colleagues better. I wanted to build relationship
-       to as many as I could because I know that it will help me with my work.
-       </p>
       </div>
 
       <div className={styles.center}>
