@@ -16,6 +16,7 @@ export default function Home() {
        </p>
         <p>
        <br/> ANSWER 1:
+       <br/> ANSWER 1:
         </p>
       </div>
 
