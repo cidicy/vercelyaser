@@ -12,7 +12,8 @@ export default function Home() {
       </div>
       <div className={styles.center}>
         <p>
-       <br/> 5 Most favourite support ask:
+      <br/> ANSWER 1:
+       <br/> 5 Most favourite support task:
        <p>
        <br/> 1. 
        <br/> 2. 
@@ -21,7 +22,7 @@ export default function Home() {
        <br/> 5.
        </p>
        <p>
-       <br/> 5 least favourite support ask:
+       <br/> 5 least favourite support task:
        <p>
        <br/> 1. 
        <br/> 2. 
@@ -30,7 +31,7 @@ export default function Home() {
        <br/> 5.
        </p>
        </p>
-       <br/> What I wanted to learn or do more of a work is to get know my colleagues better. I wanted to build relationship
+       <br/> ANSWER 2: What I wanted to learn or do more of a work is to get know my colleagues better. I wanted to build relationship
        to as many as I could because I know that it will help me with my work.
         </p>
       </div>
