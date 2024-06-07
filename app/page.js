@@ -28,6 +28,11 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
+      <a
+            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
       <Image
         src="/vercel.svg"
         alt="Vercel Logo"
