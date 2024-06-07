@@ -31,8 +31,7 @@ export default function Home() {
        <br/> 5.
        </p>
        </p>
-       </p>
-       <p>
+       
        <br/> ANSWER 2:
        <br/> ANSWER 3:
        <br/> ANSWER 4:
