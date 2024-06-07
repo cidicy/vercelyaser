@@ -42,7 +42,9 @@ export default function Home() {
         ran successfully and I couldn't re-run as it will mess up the system. Then I thought of checking the localhost logs. From there,
         I was able to see that the script was still running and I jus need to monitor it from the logs instead. 
         </p>
+        <p>
         <br/> 5 least favourite support task:
+        </p>
       </div>
 
       <div className={styles.center}>
