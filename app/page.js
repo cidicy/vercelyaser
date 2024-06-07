@@ -12,7 +12,7 @@ export default function Home() {
       </div>
       <div className={styles.center}>
       <p>
-          ANSWER 1:
+          ANSWER 1: <br/>
        </p>
         <p>
        <br/> ANSWER 1:
