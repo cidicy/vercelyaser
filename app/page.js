@@ -12,9 +12,6 @@ export default function Home() {
       </div>
       <div className={styles.center}>
         <p>
-        <br/> ANSWER 2:
-        <br/> ANSWER 3:
-        <br/> ANSWER 4:
       <br/> ANSWER 1:
        <br/> 5 Most favourite support task:
        <p>
@@ -34,7 +31,11 @@ export default function Home() {
        <br/> 5.
        </p>
        </p>
-
+       </p>
+       <p>
+       <br/> ANSWER 2:
+       <br/> ANSWER 3:
+       <br/> ANSWER 4:
       </div>
 
       <div className={styles.center}>
