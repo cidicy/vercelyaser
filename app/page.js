@@ -31,11 +31,12 @@ export default function Home() {
        <br/> 5.
        </p>
        </p>
+       </p>
        <p>
        <br/> ANSWER 2: What I wanted to learn or do more of at work is to get know my colleagues better. I wanted to build relationship
        to as many as I could because I know that it will help me with my work.
-        </p>
-        <p>
+       </p>
+       <p>
         <br/> ANSWER 3: I was running a change which was handed over from the different region. The case had been a very long pending case.
       Because I was new, I wasn't familiar with some hicups tha may happen.
         So, as I was running the script from the UI, the page just froze up and went on a blank screen. I wasn't sure if the script
