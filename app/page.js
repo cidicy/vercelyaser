@@ -34,7 +34,11 @@ export default function Home() {
        </p>
        <p>
        <br/> ANSWER 2:
+       </p>
+       <p>
        <br/> ANSWER 3:
+       </p>
+       <p>
        <br/> ANSWER 4:
        </p>
       </div>
