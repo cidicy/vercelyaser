@@ -12,7 +12,8 @@ export default function Home() {
       </div>
       <div className={styles.center}>
       <p>
-          ANSWER 1:<br/>
+          ANSWER 1:
+          <br></br>
        </p>
         <p>
           ANSWER 1:
