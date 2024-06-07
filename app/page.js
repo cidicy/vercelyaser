@@ -14,7 +14,6 @@ export default function Home() {
       <p>
           ANSWER 1:<br/>
        </p>
-      <br>
         <p>
           ANSWER 1:
         </p>
